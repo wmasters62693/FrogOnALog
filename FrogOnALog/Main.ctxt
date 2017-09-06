@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ launchFX()
+comment3.params=
+comment3.target=void\ initialiseGUI()
+comment4.params=frog
+comment4.target=void\ moveFrogRight(Frog)
+comment5.params=frog
+comment5.target=void\ moveFrogLeft(Frog)
+comment6.params=frog
+comment6.target=void\ copyColour(Frog)
+comment7.params=
+comment7.target=void\ getDataFromFile()
+comment8.params=
+comment8.target=void\ terminate()
+numComments=9

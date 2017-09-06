@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Frog
+comment1.params=name\ colour\ position
+comment1.target=Frog(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getColour()
+comment5.params=
+comment5.target=int\ getPosition()
+comment6.params=
+comment6.target=int\ getFrogCout()
+comment7.params=name
+comment7.target=void\ setName(java.lang.String)
+comment8.params=colour
+comment8.target=void\ setColour(java.lang.String)
+comment9.params=position
+comment9.target=void\ setPosition(int)
+numComments=10

@@ -1,0 +1,4 @@
+frogA, Red, 0
+frogB, yellow, 1
+frogC, Green, 2
+frogD, Pink, 3
